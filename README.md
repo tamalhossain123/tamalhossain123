@@ -16,6 +16,6 @@ const User = {
     role: "Web Developer / Security Researcher",
     location: "Dhaka, Bangladesh",
     hobbies: ["Penetration Testing", "UI/UX Design", "Clean Coding"],
-    os: "Kali Linux, Windows",
+    os: "Kali Linux / Windows",
     status: "Exploring the deep web of technology..."
 };
