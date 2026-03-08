@@ -56,12 +56,8 @@ const User = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tamalhossain123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tamalhossain123&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamalhossain123&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -85,21 +81,24 @@ tamal_hossain
 
 $ ping -c 1 tamal.hossain
 # status: ONLINE
-# response: "Ready_to_Build"
+# response: "Ready_to_Build."
 # message: "I love turning complex problems into simple solutions."
 ```
 
 <div align="center">
 
-<a href="mailto:yourmail@example.com">
+<a href="tamalhossain908@gmail.com">
   <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/iamtamal1/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://facebook.com/your-profile">
+<a href="https://www.facebook.com/iamtamal1">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+<!-- <a href="www.tamalhossain.netlify.app"> -->
+  <!-- <img src="https://img.shields.io/badge/Portfolio-f0db4f?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> -->
 
 </div>
 
