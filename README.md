@@ -86,7 +86,7 @@ $ ping -c 1 tamal.hossain
 
 <div align="center">
 
-<a href="tamalhossain908@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=tamalhossain908@gmail.com&tf=cm">
   <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/iamtamal1/">
