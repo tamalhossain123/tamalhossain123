@@ -18,7 +18,7 @@
 
 ## 👨‍💻 SYSTEM_CONSOLE
 
-```javascript
+```JavaScript
 const User = {
   name: "Tamal Hossain",
   role: "Web Developer",
@@ -26,7 +26,7 @@ const User = {
   hobbies: ["Design", "Programming", "Clean Coding"],
   os: ["Kali Linux", "Windows"],
   status: "ONLINE",
-  Expert: ["Web Developer", "WordPress Developer" ,"Graphic Desinger",
+  Expert: ["Web Developer", "WordPress Developer", "Graphic Designer",
 };
 ```
 
