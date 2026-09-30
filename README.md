@@ -1,108 +1,91 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=⚡%20TAMAL%20HOSSAIN%20⚡&fontAlign=50&fontAlignY=40&color=0:00ff99,100:00ccff&fontColor=ffffff&fontSize=48&animation=twinkling" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=00FF99&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+%7C+Security+Researcher;Building+clean+code+with+a+hacker+mindset;Turning+complex+problems+into+simple+solutions" alt="typing intro" />
-
-<img src="https://komarev.com/ghpvc/?username=tamalhossain123&label=PROFILE+VIEWS&color=00ccff&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/tamalhossain123?style=for-the-badge&color=00ff99&labelColor=1a1b27" alt="followers" />
-<img src="https://img.shields.io/github/stars/tamalhossain123?style=for-the-badge&color=00ff99&labelColor=1a1b27" alt="stars" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Tamal%20Hossain&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=00CCFF&center=true&vCenter=true&width=750&lines=%24+sudo+nmap+-sV+target;%24+git+commit+-m+%22clean+code%2C+strong+security%22;%24+deploy+--fast+--stable" alt="terminal vibe" />
+  <a href="https://komarev.com/ghpvc/?username=tamalhossain123">
+    <img src="https://komarev.com/ghpvc/?username=tamalhossain123&label=Profile%20views&color=00FFFF&style=flat-square" alt="tamalhossain123's profile views" />
+  </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 👨‍💻 SYSTEM_CONSOLE
-
-```JavaScript
-const User = {
-  name: "Tamal Hossain",
-  role: "Web Developer",
-  location: "Dhaka, Bangladesh",
-  hobbies: ["Design", "Programming", "Clean Coding"],
-  os: ["Kali Linux", "Windows"],
-  status: "ONLINE",
-  Expert: ["Web Developer", "WordPress Developer", "Graphic Designer",
-};
-```
-
----
-
-## ⚙️ TECH_STACK // ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma,linux,git,github,vscode,bash" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
----
-
-## 📈 GITHUB_ANALYTICS
-
-<div align="center">
+## 📌 About Me
+- I build high-performance web applications and scalable digital platforms with a strong focus on clean architecture, modern frontend technologies, and reliable backend integrations. From interactive React and modern JavaScript interfaces to robust Node.js APIs and customized CMS workflows, I engineer end-to-end solutions tailored to specific business needs. Whether building bespoke web platforms from the ground up or optimizing existing architectures for top-tier Google Core Web Vitals, I deliver clean, production-ready code that enhances user experience and supports long-term business growth.
 
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tamalhossain123&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/tamalhossain123">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamalhossain123&theme=merko&show_icons=true&hide_border=true" alt="tamalhossain123's GitHub Stats" />
+  </a>
+  <a href="https://github.com/tamalhossain123">
+    <img height="195" src="https://streak-stats.demolab.com/?user=tamalhossain123&theme=merko&hide_border=true" alt="tamalhossain123's GitHub Streak" />
+  </a>
+</p>
 
-</div>
+## 🛠️ Languages & Tools
 
----
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
 
-## 🐍 CONTRIBUTION_MATRIX
+</p>
 
-<div align="center">
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamalhossain123&theme=tokyo-night&hide_border=true&area=true" alt="contribution matrix graph" />
+</p>
 
-</div>
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
----
+</p>
 
-## 📡 SECURE_CHANNEL
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 
-```bash
-$ whoami
-tamal_hossain
+</p>
 
-$ ping -c 1 tamal.hossain
-# status: ONLINE
-# response: "Ready_to_Build."
-# message: "I love turning complex problems into simple solutions."
-```
+<p align="center">
+  <a href="https://github.com/tamalhossain123">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamalhossain123&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-<div align="center">
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamtamal1/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/tamalhossain123">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/1730048626">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tamalhossain908@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tamalhossain.netlify.app">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=tamalhossain908@gmail.com&tf=cm">
-  <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/iamtamal1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/iamtamal1">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<!-- <a href="www.tamalhossain.netlify.app"> -->
-  <!-- <img src="https://img.shields.io/badge/Portfolio-f0db4f?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-</div>
-
----
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff99,100:00ccff&height=18&section=footer" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
