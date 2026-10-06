@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> -->
 
 ## 📌 About Me
 - I build high-performance web applications and scalable digital platforms with a strong focus on clean architecture, modern frontend technologies, and reliable backend integrations. From interactive React and modern JavaScript interfaces to robust Node.js APIs and customized CMS workflows, I engineer end-to-end solutions tailored to specific business needs. Whether building bespoke web platforms from the ground up or optimizing existing architectures for top-tier Google Core Web Vitals, I deliver clean, production-ready code that enhances user experience and supports long-term business growth.
